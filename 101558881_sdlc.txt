@@ -1,0 +1,1 @@
+Learning about devops is essential to software development cycle because we wamt t[ develop code with efficiency, speed, quality, and by automation to to minimize human error. 

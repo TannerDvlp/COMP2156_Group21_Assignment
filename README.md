@@ -9,8 +9,8 @@ Collaborator: | Student#: 101511264
 Collaborator:Anthony Noun | Student#: 101558881
 - Maintainig: 101558881-AnthonyNoun
 
-Collaborator: | Student#:
-- Maintainig:
+Collaborator: Tsegyal Gyaltsen | Student#: 101501597
+- Maintainig: 101501597-tsegysen117
 
 Collaborator: | Student#:
 - Maintainig:

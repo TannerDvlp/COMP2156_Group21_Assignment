@@ -1,4 +1,17 @@
 # Comp2156_Group21_Assignment
 
-Collaborator: Anthony Noun | Student#: 101558881
-- Maintaining: 101558881-AnthonyNoun
+Owner: Tanner Lamoureux | Student#: 101286782
+- Maintaining: 101286782-Tanner
+
+Collaborator: | Student#: 101511264
+- Maintainig: 101511264-vyngo
+
+Collaborator:Anthony Noun | Student#: 101558881
+- Maintainig: 101558881-AnthonyNoun
+
+Collaborator: | Student#:
+- Maintainig:
+
+Collaborator: | Student#:
+- Maintainig:
+
